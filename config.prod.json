@@ -23,7 +23,15 @@
         {
             "name": "Ethereum",
             "assets-url": "https://raw.githubusercontent.com/gigantix-dev/tw-assets/master/blockchains/ethereum/tokenlist.json",
-            "custom-assets": []
+            "assets-addon": [
+                {
+                    "address": "0x1C001D1C9e8c7B8dC717c714d30b31480ab360F5",
+                    "name": "Gigantix",
+                    "symbol": "GTX",
+                    "decimals": 18,
+                    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+                }
+            ]
         },
         {
             "name": "Binance Smart Chain",
