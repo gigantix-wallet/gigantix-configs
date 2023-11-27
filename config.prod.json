@@ -1,0 +1,41 @@
+{
+    "version": "1.0.0",
+    "networks": ["Ethereum", "Binance Smart Chain", "Polygon", "BSC Testnet"],
+    "default-networks": [
+        {
+            "network": "Ethereum",
+            "tokens": ["WETH", "USDC", "USDT", "BUSD", "WBTC"]
+        },
+        {
+            "network": "Binance Smart Chain",
+            "tokens": ["WBNB", "BUSD", "USDT", "ETH", "BTCB"]
+        },
+        {
+            "network": "Polygon",
+            "tokens": ["WMATIC", "USDT", "USDC", "WBTC", "BUSD"]
+        },
+        {
+            "network": "BSC Testnet",
+            "tokens": ["BUSD", "USDT"]
+        }
+    ],
+    "blockchains": [
+        {
+            "name": "Ethereum",
+            "assets-url": "https://raw.githubusercontent.com/gigantix-dev/tw-assets/master/blockchains/ethereum/tokenlist.json",
+            "custom-assets": []
+        },
+        {
+            "name": "Binance Smart Chain",
+            "assets-url": "https://raw.githubusercontent.com/gigantix-dev/tw-assets/master/blockchains/smartchain/tokenlist.json"
+        },
+        {
+            "name": "Polygon",
+            "assets-url": "https://raw.githubusercontent.com/gigantix-dev/tw-assets/master/blockchains/polygon/tokenlist.json"
+        },
+        {
+            "name": "BSC Testnet",
+            "assets-url": "https://raw.githubusercontent.com/gigantix-wallet/assets/master/bsc-testnet/tokenlist.json"
+        }
+    ]
+}
