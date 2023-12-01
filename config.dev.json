@@ -4,7 +4,7 @@
     "default-networks": [
         {
             "network": "Ethereum",
-            "tokens": ["WETH", "USDC", "USDT", "BUSD", "WBTC"]
+            "tokens": ["WETH", "USDC", "USDT", "BUSD", "WBTC", "GTX"]
         },
         {
             "network": "Binance Smart Chain",
@@ -18,7 +18,7 @@
             "network": "BSC Testnet",
             "tokens": ["BUSD", "USDT"]
         }
-    ],
+    ],  
     "blockchains": [
         {
             "name": "Ethereum",
