@@ -32,6 +32,13 @@
                     "symbol": "GTX",
                     "decimals": 18,
                     "logoURI": "https://storage.googleapis.com/gigantix-assets/gtx.png"
+                }, 
+                {
+                    "address": "0x40e9187078032AfE1a30cfcF76E4fe3D7aB5c6C5",
+                    "name": "AIgentX",
+                    "symbol": "AIX",
+                    "decimals": 18,
+                    "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/aigentx.png"
                 }
             ]
         },
