@@ -39,6 +39,13 @@
                     "symbol": "AIX",
                     "decimals": 18,
                     "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/aigentx.png"
+                },
+                {
+                    "address": "0x37DA9DE38c4094e090c014325f6eF4baEB302626",
+                    "name": "OTSea",
+                    "symbol": "OTSea",
+                    "decimals": 18,
+                    "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/otsea.jpg"  
                 }
             ]
         },
