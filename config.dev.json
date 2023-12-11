@@ -1,6 +1,6 @@
 {
     "version": "1.2.1",
-    "version_ios": "1.2.1",
+    "version-ios": "1.2.1",
     "force-update": false,
     "version-note": "<p>The latest version contains bug fixes and performance improvements.</p>",
     "networks": ["Ethereum", "Binance Smart Chain", "Polygon", "BSC Testnet"],
