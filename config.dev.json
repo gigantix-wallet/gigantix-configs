@@ -1,8 +1,8 @@
 {
-    "version": "1.2.3",
+    "version": "1.3.46",
     "version-ios": "1.2.1",
     "force-update": false,
-    "version-note": "<p>The latest version contains bug fixes and performance improvements.</p>",
+    "version-note": "<p><p>New version includes</p><ul><li>Improved UI and minimized some animations</li><li>Implemented notifications for announcements, etc</li><li>Bug Fixed</li></ul></p>",
     "networks": ["Ethereum", "Binance Smart Chain", "Polygon", "BSC Testnet"],
     "default-networks": [
         {
