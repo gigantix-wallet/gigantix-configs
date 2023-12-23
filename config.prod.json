@@ -4,8 +4,8 @@
     "force-update": false,
     "version-note": "<p>This latest version contains</p><p>- Bug Fixing</p><p>- New FAQ Page</p><p>- Initial Staking Page</p><p>- Enhanced remote notifications</p><p>&nbsp;</p>",
     "networks": ["Ethereum", "Binance Smart Chain", "Polygon", "BSC Testnet"],
-    "caStake": "0xF0BA817bAf42f4084BE06d11a8d24efE3e703D5B",
-    "caGTX": "0x1C001D1C9e8c7B8dC717c714d30b31480ab360F5",
+    "ca-staking": "0xF0BA817bAf42f4084BE06d11a8d24efE3e703D5B",
+    "ca-gtx": "0x1C001D1C9e8c7B8dC717c714d30b31480ab360F5",
     "default-networks": [
         {
             "network": "Ethereum",
