@@ -1,8 +1,8 @@
 {
-    "version": "1.4.0",
-    "version-ios": "1.4.0",
+    "version": "1.3.49",
+    "version-ios": "1.3.6",
     "force-update": false,
-    "version-note": "<p><p>New version includes</p><ul><li>Improved UI and minimized some animations</li><li>Implemented notifications for announcements, etc</li><li>Bug Fixed</li></ul></p>",
+    "version-note": "<p>This latest version contains</p><p>- Bug Fixing</p><p>- New FAQ Page</p><p>- Initial Staking Page</p><p>- Enhanced remote notifications</p><p>&nbsp;</p>",
     "networks": ["Ethereum", "Binance Smart Chain", "Polygon", "BSC Testnet"],
     "default-networks": [
         {
@@ -21,10 +21,11 @@
             "network": "BSC Testnet",
             "tokens": ["BUSD", "USDT"]
         }
-    ],  
+    ],
     "blockchains": [
         {
             "name": "Ethereum",
+            "rpc": "https://eth-pokt.nodies.app",
             "assets-url": "https://raw.githubusercontent.com/gigantix-dev/tw-assets/master/blockchains/ethereum/tokenlist.json",
             "assets-addon": [
                 {
@@ -33,7 +34,7 @@
                     "symbol": "GTX",
                     "decimals": 18,
                     "logoURI": "https://storage.googleapis.com/gigantix-assets/gtx.png"
-                }, 
+                },
                 {
                     "address": "0x40e9187078032AfE1a30cfcF76E4fe3D7aB5c6C5",
                     "name": "AIgentX",
@@ -59,14 +60,17 @@
         },
         {
             "name": "Binance Smart Chain",
+            "rpc": "https://bsc-dataseed.binance.org",
             "assets-url": "https://raw.githubusercontent.com/gigantix-dev/tw-assets/master/blockchains/smartchain/tokenlist.json"
         },
         {
             "name": "Polygon",
+            "rpc": "https://matic-mainnet.chainstacklabs.com",
             "assets-url": "https://raw.githubusercontent.com/gigantix-dev/tw-assets/master/blockchains/polygon/tokenlist.json"
         },
         {
             "name": "BSC Testnet",
+            "rpc": "https://bsc-testnet.publicnode.com",
             "assets-url": "https://raw.githubusercontent.com/gigantix-wallet/assets/master/bsc-testnet/tokenlist.json"
         }
     ]

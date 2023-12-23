@@ -25,6 +25,7 @@
     "blockchains": [
         {
             "name": "Ethereum",
+            "rpc": "https://eth-pokt.nodies.app",
             "assets-url": "https://raw.githubusercontent.com/gigantix-dev/tw-assets/master/blockchains/ethereum/tokenlist.json",
             "assets-addon": [
                 {
@@ -59,14 +60,17 @@
         },
         {
             "name": "Binance Smart Chain",
+            "rpc": "https://bsc-dataseed.binance.org",
             "assets-url": "https://raw.githubusercontent.com/gigantix-dev/tw-assets/master/blockchains/smartchain/tokenlist.json"
         },
         {
             "name": "Polygon",
+            "rpc": "https://matic-mainnet.chainstacklabs.com",
             "assets-url": "https://raw.githubusercontent.com/gigantix-dev/tw-assets/master/blockchains/polygon/tokenlist.json"
         },
         {
             "name": "BSC Testnet",
+            "rpc": "https://bsc-testnet.publicnode.com",
             "assets-url": "https://raw.githubusercontent.com/gigantix-wallet/assets/master/bsc-testnet/tokenlist.json"
         }
     ]
