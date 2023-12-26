@@ -53,13 +53,6 @@
                     "symbol": "OTSea",
                     "decimals": 18,
                     "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/otsea.jpg"  
-                },
-                {
-                    "address": "0x9cc26fa6029BD75c07F8aEae1e6F7E500bF82037",
-                    "name": "Vault Tech",
-                    "symbol": "VAULT",
-                    "decimals": 18,
-                    "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/vaulttech.png"
                 }
             ]
         },
