@@ -86,6 +86,22 @@
                 "https://endpoints.omniatech.io/v1/bsc/testnet/public"
             ],
             "assets-url": "https://raw.githubusercontent.com/gigantix-wallet/assets/master/bsc-testnet/tokenlist.json"
+        },
+        {
+            "name": "Avalanche",
+            "rpc": "https://avax.meowrpc.com",
+            "rpc-urls": [
+                "https://endpoints.omniatech.io/v1/avax/mainnet/public"
+            ],
+            "assets-url": "https://raw.githubusercontent.com/gigantix-dev/tw-assets/master/blockchains/avalanchec/tokenlist.json"
+        },
+        {
+            "name": "Arbitrum One",
+            "rpc": "https://1rpc.io/arb",
+            "rpc-urls": [
+                "https://endpoints.omniatech.io/v1/arbitrum/one/public"
+            ],
+            "assets-url": "https://raw.githubusercontent.com/gigantix-dev/tw-assets/master/blockchains/arbitrum/tokenlist.json"
         }
     ]
 }
