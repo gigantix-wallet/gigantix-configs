@@ -3,7 +3,7 @@
     "version-ios": "1.4.0",
     "force-update": false,
     "version-note": "<p>Introducing our latest app update&mdash;your digital experience just got a turbo boost!</p><p>- Staking Feature Live</p><p>- Enhanced Balance View</p><p>- Generate Wallet with Custom Salt</p><p>- Bug Fixed on Export Private Key</p><p>- Security Enhanced</p><p>&nbsp;</p>",
-    "networks": ["Ethereum", "Binance Smart Chain", "Polygon", "BSC Testnet", "Avalanche", "Arbitrum One"],
+    "networks": ["Ethereum", "Binance Smart Chain", "Polygon", "BSC Testnet", "Avalanche", "Arbitrum"],
     "ca-staking": "0xF0BA817bAf42f4084BE06d11a8d24efE3e703D5B",
     "ca-gtx": "0x1C001D1C9e8c7B8dC717c714d30b31480ab360F5",
     "default-networks": [
@@ -86,6 +86,22 @@
                 "https://endpoints.omniatech.io/v1/bsc/testnet/public"
             ],
             "assets-url": "https://raw.githubusercontent.com/gigantix-wallet/assets/master/bsc-testnet/tokenlist.json"
+        },
+        {
+            "name": "Avalanche C-Chain",
+            "rpc": "https://avax.meowrpc.com",
+            "rpc-urls": [
+                "https://endpoints.omniatech.io/v1/avax/mainnet/public"
+            ],
+            "assets-url": "https://raw.githubusercontent.com/gigantix-dev/tw-assets/master/blockchains/avalanchec/tokenlist.json"
+        },
+        {
+            "name": "Arbitrum",
+            "rpc": "https://1rpc.io/arb",
+            "rpc-urls": [
+                "https://endpoints.omniatech.io/v1/arbitrum/one/public"
+            ],
+            "assets-url": "https://raw.githubusercontent.com/gigantix-dev/tw-assets/master/blockchains/arbitrum/tokenlist.json"
         }
     ]
 }
