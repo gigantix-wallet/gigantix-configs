@@ -25,11 +25,11 @@
         },
         {
             "network": "Avalanche C-Chain",
-            "tokens": []
+            "tokens": ["ETH", "BNB", "USDt", "SOL", "USDC"]
         },
         {
             "network": "Arbitrum",
-            "tokens": []
+            "tokens": ["WETH", "USDC.e", "DAI", "USDT", "GMX", "GRT"]
         }
     ],
     "blockchains": [
