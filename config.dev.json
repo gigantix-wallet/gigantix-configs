@@ -22,6 +22,14 @@
         {
             "network": "BSC Testnet",
             "tokens": ["BUSD", "USDT"]
+        },
+        {
+            "network": "Avalanche C-Chain",
+            "tokens": []
+        },
+        {
+            "network": "Arbitrum",
+            "tokens": []
         }
     ],
     "blockchains": [
