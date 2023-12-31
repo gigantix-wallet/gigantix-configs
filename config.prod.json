@@ -1,6 +1,6 @@
 {
-    "version": "1.4.0",
-    "version-ios": "1.4.0",
+    "version": "1.4.1",
+    "version-ios": "1.4.1",
     "force-update": false,
     "version-note": "<p>Introducing our latest app update&mdash;your digital experience just got a turbo boost!</p><p>- Staking Feature Live</p><p>- Enhanced Balance View</p><p>- Generate Wallet with Custom Salt</p><p>- Bug Fixed on Export Private Key</p><p>- Security Enhanced</p><p>&nbsp;</p>",
     "networks": ["Ethereum", "Binance Smart Chain", "Polygon", "BSC Testnet", "Avalanche C-Chain", "Arbitrum"],
