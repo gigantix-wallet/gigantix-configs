@@ -39,6 +39,7 @@
             "rpc-urls": [
                 "https://ethereum.publicnode.com"
             ],
+            "explorer-url": "https://etherscan.io",
             "assets-url": "https://raw.githubusercontent.com/gigantix-dev/tw-assets/master/blockchains/ethereum/tokenlist.json",
             "assets-addon": [
                 {
@@ -77,6 +78,7 @@
             "rpc-urls": [
                 "https://bsc.publicnode.com"
             ],
+            "explorer-url": "https://bscscan.com",
             "assets-url": "https://raw.githubusercontent.com/gigantix-dev/tw-assets/master/blockchains/smartchain/tokenlist.json"
         },
         {
@@ -85,6 +87,7 @@
             "rpc-urls": [
                 "https://polygon-pokt.nodies.app"
             ],
+            "explorer-url": "https://polygonscan.com",
             "assets-url": "https://raw.githubusercontent.com/gigantix-dev/tw-assets/master/blockchains/polygon/tokenlist.json"
         },
         {
@@ -93,6 +96,7 @@
             "rpc-urls": [
                 "https://endpoints.omniatech.io/v1/bsc/testnet/public"
             ],
+            "explorer-url": "https://testnet.bscscan.com",
             "assets-url": "https://raw.githubusercontent.com/gigantix-wallet/assets/master/bsc-testnet/tokenlist.json"
         },
         {
@@ -101,6 +105,7 @@
             "rpc-urls": [
                 "https://endpoints.omniatech.io/v1/avax/mainnet/public"
             ],
+            "explorer-url": "https://cchain.explorer.avax.network",
             "assets-url": "https://raw.githubusercontent.com/gigantix-dev/tw-assets/master/blockchains/avalanchec/tokenlist.json"
         },
         {
@@ -109,6 +114,7 @@
             "rpc-urls": [
                 "https://endpoints.omniatech.io/v1/arbitrum/one/public"
             ],
+            "explorer-url": "https://arbiscan.io",
             "assets-url": "https://raw.githubusercontent.com/gigantix-dev/tw-assets/master/blockchains/arbitrum/tokenlist.json"
         }
     ]
