@@ -2,7 +2,7 @@
     "version": "1.4.0",
     "version-ios": "1.4.0",
     "force-update": false,
-    "version-note": "<p>Introducing our latest app update&mdash;your digital experience just got a turbo boost!</p><p>- Staking Feature Live</p><p>- Enhanced Balance View</p><p>- Generate Wallet with Custom Salt</p><p>- Bug Fixed on Export Private Key</p><p>- Security Enhanced</p><p>&nbsp;</p>",
+    "version-note": "<p>What&#39;s new ?</p><p>- You can view the explorer for that token by clicking on the balance or its image.</p><p>-&nbsp;Validating ETH balance before engaging in a transaction in the staking feature.</p><p>- Pesky bugs have been exterminated, Countinue as you were</p><p>&nbsp;</p>",
     "networks": ["Ethereum", "Binance Smart Chain", "Polygon", "BSC Testnet", "Avalanche C-Chain", "Arbitrum"],
     "ca-staking": "0xF0BA817bAf42f4084BE06d11a8d24efE3e703D5B",
     "ca-gtx": "0x1C001D1C9e8c7B8dC717c714d30b31480ab360F5",
