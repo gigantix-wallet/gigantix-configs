@@ -79,16 +79,7 @@
                 "https://bsc.publicnode.com"
             ],
             "explorer-url": "https://bscscan.com",
-            "assets-url": "https://raw.githubusercontent.com/gigantix-dev/tw-assets/master/blockchains/smartchain/tokenlist.json",
-            "assets-addon": [
-                {
-                    "address": "0xdafc45a82c3681d857c6ae36227998190a9b6798",
-                    "name": "Soul",
-                    "symbol": "SOUL",
-                    "decimals": 18,
-                    "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/soul.png"
-                }
-            ]
+            "assets-url": "https://raw.githubusercontent.com/gigantix-dev/tw-assets/master/blockchains/smartchain/tokenlist.json"
         },
         {
             "name": "Polygon",
